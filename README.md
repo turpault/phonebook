@@ -1,2 +1,2 @@
 # phonebook
-[isa.html](isa)
+[isa](isa.html)
